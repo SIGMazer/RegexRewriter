@@ -2,8 +2,13 @@
 
 ## Overview
 
-The Regex Analyzer & Rewriter is a tool designed to parse, analyze, and manipulate regular expressions. It breaks down regex patterns into structured components,
-making it easier to understand, modify, and optimize them.
+The Regex Rewriter is a tool designed to manipulate text based on regular expressions.
+
+## Installation
+
+```bash
+pip install RegexRewriter
+```
 
 ## Usage 
 
