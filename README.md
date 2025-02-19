@@ -26,4 +26,4 @@ print(rewriter.rewrite("wrong", r"(right|correct|valid)"))  # Should transform t
 
 ## License
 
-This project is open-source and available for modification and distribution under the [MIT](./LICENSE) license.
+This project is open-source and available for modification and distribution under the [MIT](https://github.com/SIGMazer/RegexRewriter/blob/main/LICENSE) license.
