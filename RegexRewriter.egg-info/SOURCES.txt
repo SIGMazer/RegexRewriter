@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+RegexRewriter/RegexRewriter.py
+RegexRewriter/__init__.py
+RegexRewriter.egg-info/PKG-INFO
+RegexRewriter.egg-info/SOURCES.txt
+RegexRewriter.egg-info/dependency_links.txt
+RegexRewriter.egg-info/top_level.txt
